@@ -3,9 +3,13 @@ a tool to make a metro LCD (LCD means the display screen in the subway)
 一个用于制作地铁LCD报站屏的工具（LCD指地铁车厢内的显示屏）
 language:Chinese
 语言：中文
+
 #Introduction
+
 A custom tool for making metro carriage LCD station announcement screens, supporting independent setting of line information and current station information, with real-time synchronization and bilingual display functions.
+
 一款用于制作地铁车厢LCD报站屏的自定义工具，支持线路信息与当前站信息独立设置，具备实时同步、双语显示功能。
+
 #Core Functions
 1. Line settings: Customize line name, direction, line type (loop/linear) and theme color
 1. 线路设置：自定义线路名称、行驶方向、线路类型（环线/直线）及主题颜色
@@ -17,6 +21,7 @@ A custom tool for making metro carriage LCD station announcement screens, suppor
 4. 实时同步：切换站点时，自动将当前站信息同步至编辑框
 5. Bilingual display: All station information and operation prompts support Chinese and English bilingual display
 5. 双语显示：所有站点信息及操作提示均支持中英文双语显示
+
 #Usage
 1. Line settings: Fill in line information and click "Save Line Settings" to take effect
 1. 线路设置：填写线路相关信息，点击“保存线路设置”即可生效
